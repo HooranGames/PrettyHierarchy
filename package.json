@@ -1,0 +1,13 @@
+{
+    "name": "com.hooran.PrettyHierarchy",
+    "version": "1.0.1",
+    "displayName": "PrettyHierarchy",
+    "description": "PrettyHierarchy",
+    "unity": "2022.3",
+    "unityRelease": "0f1",
+    "author": {
+      "name": "Amir Hossein Izadnia"
+    },
+      "dependencies": {
+    }
+  }
